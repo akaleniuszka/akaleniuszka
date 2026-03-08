@@ -1,65 +1,123 @@
 # Hi, I'm Alfredo Kaleniuszka
 
-Senior Data Analyst / Analytics Engineer with experience in Business Intelligence, Forecasting, Pricing Analytics, AI initiatives, and Data Automation.
+Senior Data Analyst / Analytics Engineer specialized in Business Intelligence, Forecasting, Pricing Analytics, and Data Automation.
 
-## About me
+I have over **15 years of SQL experience** and **5+ years working with Python and BI platforms**, building analytics pipelines, dashboards, and data-driven solutions for business decision-making.
+
+Currently expanding into **AI, automation workflows, and cloud-based analytics solutions**.
+
+---
+
+# About Me
+
 - 15+ years working with SQL
 - 5+ years using Python and Power BI
-- Experience with BI, forecasting, pricing analytics, ETL, and cloud-based solutions
-- Working with datasets ranging from millions of records to terabytes
-- Experience delivering analytics and BI solutions in consulting environments
-- Currently expanding into AI, automation, n8n, and GCP-based solutions
-- Starting a Master's in Artificial Intelligence in April 2026
+- Experience in Business Intelligence, Forecasting, Pricing Analytics and ETL pipelines
+- Experience working with datasets ranging from **millions of records to terabytes**
+- Background delivering analytics and BI solutions in **consulting environments**
+- Currently working with **AI workflows, n8n automation, and Google Cloud Platform**
+- Starting a **Master’s Degree in Artificial Intelligence (2026)**
 
-## Tech Stack
+---
+
+# Tech Stack
+
+### Data & Analytics
 - SQL
 - Python
+- Pandas
+- NumPy
+- Scikit-learn
+
+### Business Intelligence
 - Power BI
 - Tableau
 - Looker
-- BigQuery / Google Cloud Platform
-- ETL / Data Warehousing
-- Machine Learning
-- n8n Automation
+- Advanced Excel
+
+### Data Engineering
+- ETL Pipelines
+- Data Warehousing
+- Talend
+- SSIS
+
+### Cloud & Data Platforms
+- Google Cloud Platform
+- BigQuery
+- Vertex AI
+
+### Automation & AI
+- n8n
+- AI-driven workflows
 - dbt (learning)
 
-## Featured Projects
+---
 
-Here are some selected projects demonstrating my work in data analytics, forecasting, business intelligence, and AI-driven automation.
+# Portfolio Projects
+
+Here are some projects demonstrating my experience in analytics, forecasting, business intelligence, and AI-driven automation.
 
 ### Demand Forecasting for Retail Operations
-Time series forecasting project analyzing historical demand to support operational planning and resource optimization.  
-**Tech:** Python, SQL, Power BI  
-**Repo:** https://github.com/akaleniuszka/demand-forecasting-retail
+Time series forecasting project analyzing historical demand to support operational planning and resource optimization.
+
+Repository  
+https://github.com/akaleniuszka/demand-forecasting-retail
+
+---
 
 ### Customer Churn Prediction
-Machine learning project focused on identifying customers at risk of churn and supporting retention strategies through predictive analytics.  
-**Tech:** Python, Pandas, Scikit-learn, SQL  
-**Repo:** https://github.com/akaleniuszka/customer-churn-prediction
+Machine learning project focused on identifying customers at risk of churn and supporting retention strategies through predictive analytics.
+
+Repository  
+https://github.com/akaleniuszka/customer-churn-prediction
+
+---
 
 ### Pricing Analytics Dashboard
-Business intelligence project analyzing pricing trends, cost behavior, and margin optimization through interactive dashboards.  
-**Tech:** SQL, Python, Power BI  
-**Repo:** https://github.com/akaleniuszka/pricing-analytics-dashboard
+Business intelligence project analyzing pricing trends, cost behavior, and margin optimization using dashboards.
+
+Repository  
+https://github.com/akaleniuszka/pricing-analytics-dashboard
+
+---
 
 ### AI Automation Pipeline with n8n
-Automation workflow integrating data ingestion, AI classification, and automated reporting using n8n and cloud services.  
-**Tech:** n8n, APIs, Python
+Automation workflow integrating data ingestion, AI classification, and automated reporting using n8n.
 
-### Machine Learning with Google Cloud (Vertex AI)
-Cloud-based ML project demonstrating model training, batch inference, and monitoring using Google Cloud services.  
-**Tech:** Python, BigQuery, Vertex AI
+Repository  
+https://github.com/akaleniuszka/ai-automation-n8n-lead-scoring
 
-## Certifications
-- Google Cloud Certified - Generative AI Leader
-- Google Cloud Certified - Cloud Digital Leader
+---
+
+### Machine Learning with Google Cloud
+Cloud-based ML project using BigQuery, Vertex AI, and Python.
+
+Repository  
+https://github.com/akaleniuszka/gcp-vertexai-ml-project
+
+---
+
+# Certifications
+
+- Google Cloud Certified – Generative AI Leader
+- Google Cloud Certified – Cloud Digital Leader
 - Power BI Data Analyst Associate
 - Tableau Desktop Specialist
 - Oracle Machine Learning Certified Associate
 - Cambridge English C1 Advanced
 
-## Contact
-- Email: alfredo.kaleniuszka@gmail.com
-- LinkedIn: https://www.linkedin.com/in/alfredo-kaleniuszka
-- Website: https://alfredokaleniuszka.com
-- GitHub Portfolio: https://github.com/akaleniuszka/portfolio
+---
+
+# Contact
+
+Email  
+alfredo.kaleniuszka@gmail.com
+
+LinkedIn  
+https://www.linkedin.com/in/alfredo-kaleniuszka
+
+Website  
+https://alfredokaleniuszka.com
+
+Portfolio  
+https://github.com/akaleniuszka/portfolio
