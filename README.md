@@ -73,7 +73,7 @@ https://github.com/akaleniuszka/customer-churn-prediction
 
 ---
 
-### Pricing Analytics Dashboard
+### Pricing Analytics Dashboard (to be updated)
 Business intelligence project analyzing pricing trends, cost behavior, and margin optimization using dashboards.
 
 Repository  
@@ -81,7 +81,7 @@ https://github.com/akaleniuszka/pricing-analytics-dashboard
 
 ---
 
-### AI Automation Pipeline with n8n
+### AI Automation Pipeline with n8n (to be updated)
 Automation workflow integrating data ingestion, AI classification, and automated reporting using n8n.
 
 Repository  
@@ -89,7 +89,7 @@ https://github.com/akaleniuszka/ai-automation-n8n-lead-scoring
 
 ---
 
-### Machine Learning with Google Cloud
+### Machine Learning with Google Cloud (to be updated)
 Cloud-based ML project using BigQuery, Vertex AI, and Python.
 
 Repository  
